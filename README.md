@@ -6,7 +6,7 @@ The notebooks from the course have been worked out and enriched. An additional n
 
 Each notebook describes a functionality of ChatGPT and how to engineer the ideal Prompt in order to leverage it.
 
-The following notebooks are included in the "src" folder:
+The following notebooks are included in the [src](src/) folder:
 - guidelines.ipynb
 - chatbot.ipynb
 - summarizing.ipynb
