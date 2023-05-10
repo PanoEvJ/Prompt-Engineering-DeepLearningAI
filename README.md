@@ -1,4 +1,4 @@
-# Prompt-Engineering-DeepLearningAI
+# Prompt Engineering with DeepLearningAI
 
 This repo contains notebooks inspired by the [Prompt Engineering](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) course by [DeepLearning.AI](https://www.deeplearning.ai/). You can find many examples of how to prompt engineer ChatGPT using the OPENAI API in order to optimally perform the desired functionality; eg sentiment analysis, translation, summarization, etc.
 
