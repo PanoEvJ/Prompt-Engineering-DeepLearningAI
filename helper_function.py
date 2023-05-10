@@ -1,4 +1,4 @@
-# helper function using the chat completions endpoint.
+import openai
 
 def get_completion(prompt, model="gpt-3.5-turbo"):
     messages = [{"role": "user", "content": prompt}]
